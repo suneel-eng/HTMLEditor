@@ -1,0 +1,11 @@
+.shadow {
+  box-shadow: 10px 0 0 grey;
+}
+.bg-primary {
+  background-color: #2C3A47 !important;
+}
+
+#code {
+  outline: none;
+  font-family: mono, sans-serif;
+}
