@@ -9,3 +9,23 @@
   outline: none;
   font-family: mono, sans-serif;
 }
+
+.tag-lt, .tag-gt, .tag-slash {
+  color: #95a5a6;
+}
+
+.tag-name {
+  color: #3498db;
+}
+
+.tag-attribute__key {
+  color: #1abc9c;
+}
+
+.tag-attribute__value {
+  color: #e67e22;
+}
+
+.tag-text {
+  color: "white";
+}
